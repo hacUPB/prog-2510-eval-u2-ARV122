@@ -1,0 +1,16 @@
+Escribe un párrafo explicando, en tus propias palabras, cómo se representan los datos en una computadora. 
+Por ejemplo, ¿cómo se ingresan números, letras, imágenes a una computadora?
+
+Respuesta: Los datos se representan atraves de ciertas combinaciones de ceros y unos, lo que conocemos como sistema binario
+Cada letra, imagen o numero se convierte en estas combinaciones que la maquina logra entender 
+
+Luego de realizar el ejercicio 1, escribe tus conclusiones acerca de la pregunta planteada en la Figura 2. 
+¿Cuántos estados diferentes pueden ser representados por N variables binarias?
+
+Respuesta: Como lo mencionamos en clase cada variable puede tener solo dos digitos 0 o 1,  si teos N variables cada una de ellas puede combinarse de 
+diferentes formas pero en numero total de combinaciones posibles serian de 2^N 
+
+¿Cuáles son las unidades de almacenamiento de datos que se utilizan en computación? Crea una tabla donde muestres estas unidades con sus prefijos. 
+En este caso me refiero a KiloByte, MegaByte, etc 
+
+
