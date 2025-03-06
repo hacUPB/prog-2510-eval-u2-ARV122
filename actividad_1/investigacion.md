@@ -155,7 +155,8 @@ En resumen, la codificación de datos es esencial en el mundo digital y ayuda a 
 
 [**Fuente**](https://www.esic.edu/rethink/marketing-y-comunicacion/que-es-codificacion-datos-tipos-ejemplos-c)
 
-¿Cuáles son las unidades de medida de datos en un computador? Bit, Byte, etc.
+## ¿Cuáles son las unidades de medida de datos en un computador? 
+Bit, Byte, etc.
 Byte	  |  B | 100	|   1
 Kilobyte   |	KB|	103	|    1.000
 Megabyte |MB | 106 |	    1.000.000
