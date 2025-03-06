@@ -167,4 +167,4 @@ En resumen, la codificación de datos es esencial en el mundo digital y ayuda a 
 
 [**Fuente**](https://www.profesionalreview.com/2018/12/12/unidades-de-medida/)
 
-![Mapa conceptual](descargas/Computador_digital_moderno.png) 
+![Mapa conceptual](imagenes/Computador_digital_moderno.png) 
