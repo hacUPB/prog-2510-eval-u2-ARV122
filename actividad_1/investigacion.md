@@ -166,3 +166,5 @@ En resumen, la codificación de datos es esencial en el mundo digital y ayuda a 
 |Terabyte  TB |1024 GB|
 
 [**Fuente**](https://www.profesionalreview.com/2018/12/12/unidades-de-medida/)
+
+![Mapa conceptual](descargas/Computador_digital_moderno.png) 
