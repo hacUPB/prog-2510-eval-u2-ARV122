@@ -160,9 +160,9 @@ En resumen, la codificación de datos es esencial en el mundo digital y ayuda a 
 |------|------|
 |Bit||
 |Byte  B |8 Bits|
-|Kilobyte  KB 1024 B|
-|Megabyte  MB 1024 KB|
-|Gigabyte  GB 1024 MB|
-|Terabyte  TB 1024 GB|
+|Kilobyte  KB |1024 B|
+|Megabyte  MB |1024 KB|
+|Gigabyte  GB |1024 MB|
+|Terabyte  TB |1024 GB|
 
 [**Fuente**](https://www.profesionalreview.com/2018/12/12/unidades-de-medida/)
