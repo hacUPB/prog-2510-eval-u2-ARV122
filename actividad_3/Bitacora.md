@@ -110,7 +110,9 @@ print("El total a pagar a la compañía de viajes es:", total_a_pagar)
 
 #### Pseudocodigo 
 
+
 Inicio
+    
     Definir salario Como Real
     salario <- 1500
 
