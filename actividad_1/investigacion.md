@@ -155,15 +155,18 @@ En resumen, la codificación de datos es esencial en el mundo digital y ayuda a 
 
 [**Fuente**](https://www.esic.edu/rethink/marketing-y-comunicacion/que-es-codificacion-datos-tipos-ejemplos-c)
 
-¿Cuáles son las unidades de medida de datos en un computador? Bit, Byte, etc.
-Byte	  |  B | 100	|   1
-Kilobyte   |	KB|	103	|    1.000
-Megabyte |MB | 106 |	    1.000.000
-Gigabyte | GB |	109 |	    1.000.000.000
-Terabyte | TB |	1012 |	1.000.000.000.000
-Petabyte | PB |	1015 |	1.000.000.000.000.000
-Exabyte | EB |	1018 |	1.000.000.000.000.000.000
-Zettabyte | ZB |	1021 | 	1.000.000.000.000.000.000.000
-Yottabyte | YB |	1024 |	1.000.000.000.000.000.000.000.000
+## ¿Cuáles son las unidades de medida de datos en un computador? 
+|Unidad|Tamaño|
+|------|------|
+|Bit||
+|Byte  B |8 Bits|
+|Kilobyte  KB |1024 B|
+|Megabyte  MB |1024 KB|
+|Gigabyte  GB |1024 MB|
+|Terabyte  TB |1024 GB|
 
 [**Fuente**](https://www.profesionalreview.com/2018/12/12/unidades-de-medida/)
+
+![Mapa conceptual](imagenes/Mapa_conceptual.png) 
+
+
