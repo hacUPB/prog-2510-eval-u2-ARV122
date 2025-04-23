@@ -141,3 +141,15 @@ for año in range(1, 7):
     print("Año", año, ":", salario)
 
 print("Salario final después de 6 años:", salario)
+```
+## Actvidad final 
+
+### Identifica algoritmos 
+
+*Responde si los siguientes enunciados representan un algoritmo*
+
+1. **Pagina web:** No es es un algoritmo debido a que no es neceesario que tenga una forma de resolver un problema
+2. **Una receta para hacer un pastel, donde se indican ingredientes y pasos a seguir:** Si es un algortimo ya que se comparte unas instrucciones con las cuales se ayuda a resolver el como hacer un pastel 
+3.  **"Piensa en un número y multiplícalo por otro":** Podemos decir que si ya que se da una serie de pasos, el cual tiene como objetivo encontrar un numero nuevo 
+4. **Un manual de instrucciones para armar un mueble, con pasos detallados y un orden claro:** Si puede ser un algoritmo ya que con el podemos armar correctamente el mueble por medio de una serie de instrucciones 
+5.  **Una lista de compras organizada en orden alfabético:** No seria un algoritmo ya que por mas que tenga un orden, no mos facilita pasos logicos para resolver el problema   
