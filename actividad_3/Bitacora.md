@@ -1,3 +1,6 @@
+# Simbologia que se utiliza para la representacion de cada operacion en un diagrama de flujo 
+![simbolos de diagrama de flujo](simbolos-de-diagramas-de-flujo.png)
+
 # Ejercicios 
 # Realice un algoritmo para determinar cuánto se debe pagar por equis cantidad de lápices considerando que si son 1000 o más el costo es de $85 cada uno; de lo contrario, el precio es de $90. Represéntelo con el pseudocódigo y el diagrama de flujo
 
